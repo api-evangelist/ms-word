@@ -1,0 +1,86 @@
+name: Microsoft Word API
+description: APIs for interacting with Microsoft Word documents and functionality
+image: https://example.com/images/msword-logo.png
+url: https://learn.microsoft.com/en-us/office/dev/add-ins/word/
+tags:
+- word processing
+- documents
+- office
+- productivity
+created: '2024-01-01'
+modified: '2024-01-01'
+apis:
+- name: Word JavaScript API
+  description: JavaScript API for building Word add-ins and interacting with Word document content
+  image: https://example.com/images/word-js-api.png
+  humanURL: https://learn.microsoft.com/en-us/office/dev/add-ins/reference/overview/word-add-ins-reference-overview
+  baseURL: https://officescripts.microsoft.com
+  tags:
+  - javascript
+  - add-ins
+  - office-js
+  properties:
+  - type: documentation
+    url: https://learn.microsoft.com/en-us/javascript/api/word
+  - type: getting-started
+    url: https://learn.microsoft.com/en-us/office/dev/add-ins/quickstarts/word-quickstart
+  - type: code-samples
+    url: https://github.com/OfficeDev/Office-Add-in-samples
+  contact:
+  - type: support
+    url: https://support.microsoft.com/office
+- name: Microsoft Graph Word API
+  description: REST API for accessing and manipulating Word documents stored in OneDrive and SharePoint
+  image: https://example.com/images/graph-api.png
+  humanURL: https://learn.microsoft.com/en-us/graph/api/resources/word
+  baseURL: https://graph.microsoft.com/v1.0
+  tags:
+  - rest
+  - graph
+  - cloud
+  properties:
+  - type: documentation
+    url: https://learn.microsoft.com/en-us/graph/api/resources/word
+  - type: openapi
+    url: https://graph.microsoft.com/openapi/v1.0
+  - type: authentication
+    url: https://learn.microsoft.com/en-us/graph/auth/
+  - type: rate-limits
+    url: https://learn.microsoft.com/en-us/graph/throttling
+  contact:
+  - type: support
+    url: https://developer.microsoft.com/en-us/graph/support
+- name: Office Open XML SDK
+  description: .NET SDK for programmatically creating and manipulating Word documents using Open XML format
+  image: https://example.com/images/openxml-sdk.png
+  humanURL: https://learn.microsoft.com/en-us/office/open-xml/word-processing
+  baseURL: https://www.nuget.org/packages/DocumentFormat.OpenXml/
+  tags:
+  - dotnet
+  - openxml
+  - sdk
+  properties:
+  - type: documentation
+    url: https://learn.microsoft.com/en-us/office/open-xml/word/word-processing
+  - type: github
+    url: https://github.com/OfficeDev/Open-XML-SDK
+  - type: nuget
+    url: https://www.nuget.org/packages/DocumentFormat.OpenXml/
+  - type: code-samples
+    url: https://github.com/OfficeDev/Open-XML-SDK/tree/main/samples
+  contact:
+  - type: github-issues
+    url: https://github.com/OfficeDev/Open-XML-SDK/issues
+maintainers:
+- name: Microsoft Corporation
+  email: officedev@microsoft.com
+  url: https://developer.microsoft.com/office
+common:
+- type: terms-of-service
+  url: https://www.microsoft.com/en-us/legal/terms-of-use
+- type: privacy-policy
+  url: https://privacy.microsoft.com/
+- type: developer-portal
+  url: https://developer.microsoft.com/office
+- type: blog
+  url: https://devblogs.microsoft.com/microsoft365dev/
