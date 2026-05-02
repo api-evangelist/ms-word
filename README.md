@@ -9,8 +9,8 @@ APIs for interacting with Microsoft Word documents and functionality
 
 ## Timestamps
 
-- **Created:** 2024-01-01 
-- **Modified:** 2024-01-01 
+- **Created:** 2024-01-01
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -42,10 +42,9 @@ REST API for accessing and manipulating Word documents stored in OneDrive and Sh
 
 #### Properties
 
-- [documentation](https://learn.microsoft.com/en-us/graph/api/resources/word)
-- [openapi](https://graph.microsoft.com/openapi/v1.0)
-- [authentication](https://learn.microsoft.com/en-us/graph/auth/)
-- [rate-limits](https://learn.microsoft.com/en-us/graph/throttling)
+- [Documentation](https://learn.microsoft.com/en-us/graph/api/resources/word)
+- [Authentication](https://learn.microsoft.com/en-us/graph/auth/)
+- [Rate Limits](https://learn.microsoft.com/en-us/graph/throttling)
 
 ### Office Open XML SDK
 .NET SDK for programmatically creating and manipulating Word documents using Open XML format
@@ -73,6 +72,6 @@ REST API for accessing and manipulating Word documents stored in OneDrive and Sh
 
 ## Maintainers
 
-**FN:** Microsoft Corporation
+**FN:** Kin Lane
 
-**Email:** officedev@microsoft.com
+**Email:** kin@apievangelist.com
