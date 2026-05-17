@@ -27,7 +27,7 @@ apis:
     properties:
       - type: Documentation
         url: https://learn.microsoft.com/en-us/javascript/api/word
-      - type: Getting Started
+      - type: GettingStarted
         url: https://learn.microsoft.com/en-us/office/dev/add-ins/quickstarts/word-quickstart
       - type: Code Samples
         url: https://github.com/OfficeDev/Office-Add-in-samples
@@ -60,15 +60,15 @@ apis:
     properties:
       - type: Documentation
         url: https://learn.microsoft.com/en-us/office/open-xml/word/word-processing
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/OfficeDev/Open-XML-SDK
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.microsoft.com/en-us/legal/terms-of-use
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://privacy.microsoft.com/
   - type: Portal
     url: https://developer.microsoft.com/office
