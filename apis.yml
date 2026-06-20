@@ -3,7 +3,7 @@ name: Microsoft Word API
 description: >-
   APIs for interacting with Microsoft Word documents and functionality.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://learn.microsoft.com/en-us/office/dev/add-ins/word/
 tags:
   - Documents
@@ -18,7 +18,7 @@ apis:
     description: >-
       JavaScript API for building Word add-ins and interacting with Word document
       content.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/office/dev/add-ins/reference/overview/word-add-ins-reference-overview
     tags:
       - Add-Ins
@@ -35,7 +35,7 @@ apis:
     description: >-
       REST API for accessing and manipulating Word documents stored in OneDrive and
       SharePoint.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/graph/api/resources/word
     baseURL: https://graph.microsoft.com/v1.0
     tags:
@@ -51,7 +51,7 @@ apis:
     description: >-
       .NET SDK for programmatically creating and manipulating Word documents using
       Open XML format.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/office/open-xml/word-processing
     tags:
       - Dotnet
