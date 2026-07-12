@@ -66,6 +66,10 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: VulnerabilityDisclosure
+    url: security/ms-word-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/ms-word-domain-security.yml
   - type: TermsOfService
     url: https://www.microsoft.com/en-us/legal/terms-of-use
   - type: PrivacyPolicy
