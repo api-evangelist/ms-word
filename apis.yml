@@ -78,6 +78,19 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: IssueTracker
+    url: https://github.com/OfficeDev/Open-XML-SDK/issues
+  - type: Releases
+    url: https://github.com/OfficeDev/Open-XML-SDK/releases
+  - type: SecurityPolicy
+    url: https://github.com/dotnet/Open-XML-SDK/blob/main/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/dotnet/Open-XML-SDK/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/dotnet/Open-XML-SDK/blob/main/CONTRIBUTING.md
+  - type: License
+    name: MIT
+    url: https://github.com/OfficeDev/Open-XML-SDK/blob/main/LICENSE
   - type: VulnerabilityDisclosure
     url: security/ms-word-vulnerability-disclosure.yml
   - type: DomainSecurity
