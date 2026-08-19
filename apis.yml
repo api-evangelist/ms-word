@@ -24,7 +24,7 @@ tags:
   - Word Processing
 created: '2024-01-01'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - name: Word JavaScript API
     description: >-
@@ -41,7 +41,7 @@ apis:
         url: https://learn.microsoft.com/en-us/javascript/api/word
       - type: GettingStarted
         url: https://learn.microsoft.com/en-us/office/dev/add-ins/quickstarts/word-quickstart
-      - type: Code Samples
+      - type: CodeExamples
         url: https://github.com/OfficeDev/Office-Add-in-samples
   - name: Microsoft Graph Word API
     description: >-
