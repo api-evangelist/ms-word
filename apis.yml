@@ -34,6 +34,10 @@ apis:
     humanURL: https://learn.microsoft.com/en-us/office/dev/add-ins/reference/overview/word-add-ins-reference-overview
     tags:
       - Add-Ins
+      - JavaScript
+      - Office-Js
+    tags_raw:
+      - Add-Ins
       - Javascript
       - Office-Js
     properties:
@@ -53,6 +57,10 @@ apis:
     tags:
       - Cloud
       - Graph
+      - REST
+    tags_raw:
+      - Cloud
+      - Graph
       - Rest
     properties:
       - type: Documentation
@@ -66,6 +74,10 @@ apis:
     image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/office/open-xml/word-processing
     tags:
+      - Dotnet
+      - Openxml
+      - SDK
+    tags_raw:
       - Dotnet
       - Openxml
       - Sdk
