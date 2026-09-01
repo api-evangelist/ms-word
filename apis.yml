@@ -47,7 +47,7 @@ apis:
     humanURL: https://learn.microsoft.com/en-us/office/dev/add-ins/reference/overview/word-add-ins-reference-overview
     tags:
       - Add-Ins
-      - Javascript
+      - JavaScript
       - Office-Js
     tags_raw:
       - Add-Ins
@@ -89,7 +89,7 @@ apis:
     tags:
       - Dotnet
       - Openxml
-      - Sdk
+      - SDK
     tags_raw:
       - Dotnet
       - Openxml
